@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Tetania**.\
+Perkenalkan nama saya **Tetania**.
 
 Saya sangat tertarik dalam mempelajari Machine Learning
 
