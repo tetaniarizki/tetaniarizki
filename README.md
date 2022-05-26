@@ -1,8 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Rizki Tetania Mahalang N**.\
-
-Saya seorang **Mahasiswa Statistika** di [ITS Surabaya](https:its.ac.id).\
+Perkenalkan nama saya **Tetania**.\
 
 Saya sangat tertarik dalam mempelajari Machine Learning
 
