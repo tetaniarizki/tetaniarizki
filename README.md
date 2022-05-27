@@ -1,10 +1,6 @@
-# Halo semua! 
+# Hello everyone 
 
-Perkenalkan nama saya **Tetania**.
-
-Saya sangat tertarik dalam mempelajari Machine Learning
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rizki-tetania-m-65285512b/) ku ya.
+I'm **Tetania**, and this is my [Linkedin](https://www.linkedin.com/in/rizki-tetania-m-65285512b/) ku ya.
 
 <p align="left">
 <a href="https://github.com/tetaniarizki">
