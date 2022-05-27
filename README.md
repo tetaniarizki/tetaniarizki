@@ -1,6 +1,6 @@
 # Hello everyone 
 
-I'm **Tetania**, and this is my [Linkedin](https://www.linkedin.com/in/rizki-tetania-m-65285512b/) ku ya.
+I'm **Tetania**, and this is my [Linkedin](https://www.linkedin.com/in/rizki-tetania-m-65285512b/).
 
 <p align="left">
 <a href="https://github.com/tetaniarizki">
