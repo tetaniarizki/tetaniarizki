@@ -24,7 +24,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS"  alt="SPSS" width="40" height="40"/>&nbsp;
  </div>
  
- <a href="https://github.com/tetaniarizki/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tetaniarizki&layout=compact&langs_count=8&theme=algolia"/></a> 
+ <a href="https://github.com/tetaniarizki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hendrawanap&show_icons=true&theme=dracula&layout=compact"/></a> 
 
 
  
