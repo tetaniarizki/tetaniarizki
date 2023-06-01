@@ -12,7 +12,7 @@
 
  - :part_alternation_mark: I am a Data Analytics,  from East Java, Indonesia.
  
- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rizki-tetania-mahalang-/)
+ - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rizki-tetania-mahalang-/) [Kaggle](https://www.kaggle.com/tetaniarizki)
  - :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
